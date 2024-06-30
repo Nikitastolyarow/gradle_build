@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="moduleMapping">
+      <map>
+        <entry key="gradle.db" value="gradle.db" />
+        <entry key="gradle.db.main" value="gradle.Db.main" />
+        <entry key="gradle.db.test" value="gradle.Db.test" />
+      </map>
+    </option>
+  </component>
+</project>
